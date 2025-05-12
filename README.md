@@ -15,7 +15,7 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
 # PROGRAM:
 StegExpose and File Signature Analysis Commands
 
-## OUTPUT:
+
 ### 1.Install and Set Up StegExpose
 • Download the StegExpose .jar file from the official repository. • Ensure Java Runtime Environment (JRE) is installed. • Run the tool on an image or a folder of images:\
 • The output will list detection scores and a "suspect" verdict if steganography is found.
@@ -31,7 +31,7 @@ o Sometimes, files are disguised (e.g., a ZIP file hidden as a JPG), and this tr
 
 ### 5.Optional: Use Other Tools
 o Tools like binwalk, stegsolve, or zsteg can be used for deeper analysis, especially for PNG files or binary dumps.
-
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/bcca4ee9-42f3-490e-ab65-e160c8ac0794)
 
 ![438094466-1a6903cd-cfa0-4fa7-837f-a34efa0a809c](https://github.com/user-attachments/assets/f4a36b69-b9ea-4319-b828-ae2123b19d6f)
